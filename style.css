@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+@font-face {
+    font-family: roboto;
+    src: url(./fonts/Roboto/Roboto-Medium.ttf);
+}
+.site{
+    width: 1440px;
+    height: 14947px;
+    box-sizing: border;
+    text-align: center;
+}
+.matn h1{
+    width: 825px;
+    height: 128px;
+    margin-top: 100px;
+    margin-left: 260px;
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 68px;
+    text-align: center;
+    color: #191919;
+}
+.matn p{
+    width: 613px;
+    height: 56px;
+    margin-top: 50px;
+    margin-left: 370px;
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #191919;
+}
+.BTN{
+   width: 478px;
+   height: 58px; 
+   border: 1px solid black;
+   border-radius: 20px;
+   margin-left: 440px;
+   margin-top: 50px;
+}
+.BTN button{
+    height: 56px;
+    width: 149px;
+    border-radius: 19px;
+    margin-right: 87px;
+    margin-top: 30px;
+    border: none;
+    color: #fff;
+    background: #7352FF;
+}
+.BTN input{
+    height: 56px;
+    width: 100px;
+    border-radius: 19px;
+    border: none;
+    position: relative;
+    bottom:30px;
+}
+.BTN input:focus{
+    outline: none;
+}
+.slinder2 img{
+    position: relative;
+    bottom: 120px;
+}
+.site2{
+    width: 1440px;
+    background: #191919;
+}
+.site2 p{
+    width: 525px;
+    height: 96px;
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    margin-left: 400px;
+    color: #FFFFFF;
+}
+.matn2{
+    margin-top: 100px;
+}
+.matn2 a{
+    color: #FF573D;
+}
+.matn2 h1{
+    width: 1019px;
+    height: 156px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    text-align: center;
+    color: #191919;
+    margin-left: 225px;
+    margin-top: 50px;
+}
+.showcase2{
+    width: 1440px;
+    margin-top: 100px;
+    background: #F7F2E4;
+}
+.showcase2 button{
+    margin-top: 50px;
+}
+button{
+   border-radius: 15px;
+   color: #7352FF;
+   position: relative;
+   left: 100px;
+   bottom: 30px;
+   text-align: center;
+   margin-left: 110px;
+}
+.showcase2 a{
+    width: 336px;
+    height: 28px;
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #7352FF;
+    position: relative;
+    right: 75px;
+    top: 5px;
+}
+.showcase2 h1{
+    width: 797px;
+    height: 136px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 68px;
+    text-align: center;
+    color: #191919;
+    margin-left: 330px;
+}
+.showcase2 p{
+    width: 177px;
+    height: 36px;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #191919;
+}
+.showcase3{
+    margin-top: 50px;
+    background: #191919;
+}
+.matn3{
+    margin-top: 200px;
+}
+.matn3 a{
+    width: 342px;
+    height: 28px;
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #F6C627;
+    position: relative;
+    top: 50px;
+    right: 65px;
+}
+.matn3 h1{
+    width: 854px;
+    height: 136px;
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 68px;
+    text-align: center;
+    color: #191919;
+    position: relative;
+    top: 100px;
+    left: 300px;
+}
+.r2 img{
+    margin: 0 225px;   
+}
+.chap{
+    margin: 0 150px;
+    position: relative;
+    top: 100px;
+}
+.chap a{
+    position: relative;
+    right: 350px; 
+
+}
+.chap p{
+    width: 350px;
+    height: 144px;
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #191919;
+}
+.chap img{
+    position: relative;
+    right: 550px;
+    top: 400px;
+}
+.ong img{
+    position: relative;
+    left: 270px;
+    bottom: 360px;
+}
+.showcase4{
+    background-color: #2B2A35;
+}
+.showcase4 button{
+    /* top: 100px; */
+}
